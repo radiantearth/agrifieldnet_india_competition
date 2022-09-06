@@ -9,7 +9,9 @@ The starter notebook focuses on a simple baseline model using Random Forests to 
 ## Environment
 
 Python 3.8.13
+
 minimum RAM : 8GB
+
 You can find the required packages used within the requirements.txt file.
 
 
