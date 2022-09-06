@@ -19,8 +19,8 @@ You can find the required packages used within the requirements.txt file.
 ![Radiant Earth Foundation Logo](REF.png)
 
 Radiant Earth Foundation is a nonprofit corporation working to empower organizations and individuals with open machine learning (ML) and Earth observation data, standards, and tools to address the world’s most critical international development challenges. Radiant Earth fosters collaboration through a cloud-based open geospatial training data library, Radiant MLHub. Radiant also supports an ecosystem of practitioners to develop standards, expand interoperability around ML on Earth observation, and provide information and training to help advance the capacity of those working in the global development sector using ML and Earth observation. Visit Radiant Earth on Twitter, LinkedIn, Medium, and GitHub.
-### About IDInsight ([idinsight.org](https://idinsight.org))
-![IDInsight Logo](IDinsight.png)
+### About IDinsight ([idinsight.org](https://idinsight.org))
+![IDinsight Logo](IDinsight.png)
 
 IDinsight is a mission-driven global advisory, data analytics, and research organization that helps global development leaders maximize their social impact. We tailor a wide range of data and evidence tools, including randomized evaluations and machine learning, to help decision-makers design effective programs and rigorously test what works to support communities. We work with governments, multilateral agencies, foundations, and innovative non-profit organizations in Asia and Africa. We work across a wide range of sectors, including agriculture, education, health, governance, sanitation, and financial inclusion. We have team members who are remote and have offices in Dakar, Lusaka, Manila, Nairobi, New Delhi, and Rabat. The ground-reference data for this challenge was collected by IDInsight's [Data on Demand](https://www.idinsight.org/services/data-on-demand/) team.
 
